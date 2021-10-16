@@ -1,5 +1,5 @@
 - Hi, I’m Manuel Arce.
-- I’m interested in web development and web applications.
+- I’m interested in front end web development.
 - I’m currently learning HTML, CSS, JS, JSX and React.js.
 - I want to work as a Junior Front End Developer.
 
