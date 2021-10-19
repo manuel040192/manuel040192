@@ -6,6 +6,8 @@ Websites I use for learning and practicing:
 - https://morioh.com/
 - https://github.com/
 - https://www.codecademy.com/
+- https://www.freecodecamp.org/
+- https://reactjs.org/
 - https://www.frontendmentor.io/
 - https://www.youtube.com/
 
