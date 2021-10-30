@@ -1,4 +1,4 @@
-Hi, I’m Manuel Arce. I’m interested in front end web development. I’m currently learning HTML, CSS, JS, JSX, React.js, Redux.js and React Native. I want to work as a Junior Front End Developer.
+Hi, I’m Manuel Arce. I’m interested in front end web and mobile app development. I’m currently learning HTML, CSS, JS, JSX, React.js, Redux.js and React Native. I want to work as a Junior Front End Developer.
 
 Websites I use for learning and practicing:
 
