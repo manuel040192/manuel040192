@@ -11,7 +11,7 @@ Websites I use for learning and practicing:
 - https://github.com/
 - https://www.codecademy.com/
 - https://www.freecodecamp.org/
-- https://reactjs.org/
+- https://beta.reactjs.org/
 - https://www.frontendmentor.io/
 - https://www.youtube.com/
 
