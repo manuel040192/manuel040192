@@ -1,4 +1,4 @@
-Hi, I’m Manuel Arce. I’m interested in front end web and mobile app development. I have knowledge of HTML, CSS, JS, JSX, React.js, React Native, Redux.js, Styled Components, Sass, GitHub, Heroku, WordPress and Photoshop. I want to work as a Front End Developer.
+Hi, I’m Manuel Arce. I’m interested in front end web and mobile app development. I have knowledge of HTML, CSS, JS, JSX, React.js, React Native, Redux.js, Styled Components, Sass, GitHub, Heroku, WordPress and Photoshop.
 
 My portfolio:
 
