@@ -1,4 +1,4 @@
-Hi, I’m Manuel Arce. I’m a freelance full stack developer, and I'm interested in web and mobile app development. I have knowledge of HTML, CSS, JS, JSX, React.js, React Native, Redux.js, React Router, Styled Components, Inline Styles, Material UI, React Reveal, Sass, GitHub, Heroku, WordPress and Photoshop.
+Hi, I’m Manuel Arce. I’m a freelance full stack developer, and I'm interested in web and mobile app development. I have knowledge of HTML, CSS, JS, JSX, React.js, React Native, Redux.js, React Router, Firebase, Styled Components, Inline Styles, Material UI, React Reveal, Sass, GitHub, Heroku, Wix, WordPress and Photoshop.
 
 My portfolio:
 
