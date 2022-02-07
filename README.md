@@ -1,4 +1,4 @@
-Hi, I’m Manuel Arce. I’m a freelance full stack developer, and I'm interested in web and mobile app development. I have knowledge of React.js, React Native, Next.js, Redux.js, Firebase, Styled Components, Material-UI, React Image Gallery, React Router, Sass, GitHub, Vercel, Heroku and Netlify.
+Hi, I’m Manuel Arce, I’m a full stack developer, and I have knowledge of React.js, React Native, Next.js, Redux.js, Redux Toolkit, Firebase, Styled Components, Material-UI, React Image Gallery, React Router, Sass, GitHub, Vercel, Heroku and Netlify.
 
 My portfolio:
 
